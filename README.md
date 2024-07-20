@@ -61,7 +61,7 @@ Welcome to the Aesthetic-Polybar repository! This collection features beautifull
 
 
 <details>
-<summary><b>Dark-theme 🌕 </b></summary>
+<summary><b>Light-theme 🌕 </b></summary>
 
 ![Aesthetic Polybar](screenshots/1.png)
 
