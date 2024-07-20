@@ -36,25 +36,25 @@ Welcome to the Aesthetic-Polybar repository! This collection features beautifull
 <details>
 <summary><b>Dark-theme 🌑 </b></summary>
 
-![Aesthetic Polybar](screenshots/2024-07-19_13-43.png)
+![Aesthetic Polybar](screenshots/a.png)
 
-![Aesthetic Polybar](screenshots/2024-07-19_13-43_1.png)
+![Aesthetic Polybar](screenshots/b.png)
 
-![Aesthetic Polybar](screenshots/2024-07-19_13-44.png)
+![Aesthetic Polybar](screenshots/c.png)
 
-![Aesthetic Polybar](screenshots/2024-07-19_13-44_1.png)
+![Aesthetic Polybar](screenshots/d.png)
 
-![Aesthetic Polybar](screenshots/2024-07-19_13-45.png)
+![Aesthetic Polybar](screenshots/e.png)
 
-![Aesthetic Polybar](screenshots/2024-07-19_13-45_1.png)
+![Aesthetic Polybar](screenshots/f.png)
 
-![Aesthetic Polybar](screenshots/2024-07-19_13-46.png)
+![Aesthetic Polybar](screenshots/g.png)
 
-![Aesthetic Polybar](screenshots/2024-07-19_13-47.png)
+![Aesthetic Polybar](screenshots/h.png)
 
-![Aesthetic Polybar](screenshots/2024-07-19_13-54.png)
+![Aesthetic Polybar](screenshots/i.png)
 
-![Aesthetic Polybar](screenshots/2024-07-19_13-57.png)
+![Aesthetic Polybar](screenshots/j.png)
 
 
 </details>
@@ -63,25 +63,25 @@ Welcome to the Aesthetic-Polybar repository! This collection features beautifull
 <details>
 <summary><b>Dark-theme 🌕 </b></summary>
 
-![Aesthetic Polybar](screenshots/2024-07-19_14-01.png)
+![Aesthetic Polybar](screenshots/1.png)
 
-![Aesthetic Polybar](screenshots/2024-07-19_14-02.png)
+![Aesthetic Polybar](screenshots/2.png)
 
-![Aesthetic Polybar](screenshots/2024-07-19_14-02_1.png)
+![Aesthetic Polybar](screenshots/3.png)
 
-![Aesthetic Polybar](screenshots/2024-07-19_14-03.png)
+![Aesthetic Polybar](screenshots/4.png)
 
-![Aesthetic Polybar](screenshots/2024-07-19_14-03_1.png)
+![Aesthetic Polybar](screenshots/5.png)
 
-![Aesthetic Polybar](screenshots/2024-07-19_14-04.png)
+![Aesthetic Polybar](screenshots/6.png)
 
-![Aesthetic Polybar](screenshots/2024-07-19_14-04_1.png)
+![Aesthetic Polybar](screenshots/7.png)
 
-![Aesthetic Polybar](screenshots/2024-07-19_14-05.png)
+![Aesthetic Polybar](screenshots/8.png)
 
-![Aesthetic Polybar](screenshots/2024-07-19_14-07.png)
+![Aesthetic Polybar](screenshots/9.png)
 
-![Aesthetic Polybar](screenshots/2024-07-19_14-08.png)
+![Aesthetic Polybar](screenshots/10.png)
 
 
 </details>
@@ -94,8 +94,6 @@ Welcome to the Aesthetic-Polybar repository! This collection features beautifull
 ## Installation
 ### Step 1: Clone the Repository
 ```sh
-mkdir Aesthetic-Polybar
-cd Aesthetic-Polybar
 git clone https://github.com/Alopes01/Aesthetic-Polybar.git
 ```
 ### Step 2: Make the two scripts executable
@@ -146,7 +144,3 @@ Please i'm a human if you find any errors report them in the issues section
 - If the temperature module doesn't work try, changing to your grafics card in the polybar config.
 - For those who want to use the dark green color the name of the config is green-dark.ini.
 
-
-## To do list
-
-- Fix the vertical alignment
