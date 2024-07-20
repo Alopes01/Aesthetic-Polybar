@@ -26,15 +26,15 @@
 Welcome to the Aesthetic-Polybar repository! This collection features beautifully designed Polybar themes tailored for various styles and preferences, including dark mode, light mode, and more. Customize your desktop environment with ease and style.
 
 ## Features
-- 🌕 **Dark Mode Themes**: Sleek and modern designs for dark mode enthusiasts.
-- 🌑 **Light Mode Themes**: Clean and bright themes for light mode users.
+- 🌑  **Dark Mode Themes**: Sleek and modern designs for dark mode enthusiasts.
+- 🌕 **Light Mode Themes**: Clean and bright themes for light mode users.
 - 🎨 **Custom Colors**: Easily switch between different color schemes.
 - 🚀 **Easy Installation**: Simple scripts to install and apply themes.
 
 ## Showcase
 
 <details>
-<summary><b>Dark-theme 🌕 </b></summary>
+<summary><b>Dark-theme 🌑 </b></summary>
 
 ![Aesthetic Polybar](screenshots/2024-07-19_13-43.png)
 
@@ -61,7 +61,7 @@ Welcome to the Aesthetic-Polybar repository! This collection features beautifull
 
 
 <details>
-<summary><b>Dark-theme 🌑 </b></summary>
+<summary><b>Dark-theme 🌕 </b></summary>
 
 ![Aesthetic Polybar](screenshots/2024-07-19_14-01.png)
 
