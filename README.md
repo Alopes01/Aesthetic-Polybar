@@ -145,3 +145,8 @@ Please i'm a human if you find any errors report them in the issues section
 
 - If the temperature module doesn't work try, changing to your grafics card in the polybar config.
 - For those who want to use the dark green color the name of the config is green-dark.ini.
+
+
+## To do list
+
+- Fix the vertical alignment
