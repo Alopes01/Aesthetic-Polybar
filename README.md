@@ -95,6 +95,7 @@ Welcome to the Aesthetic-Polybar repository! This collection features beautifull
 ### Step 1: Clone the Repository
 ```sh
 git clone https://github.com/Alopes01/Aesthetic-Polybar.git
+cd Aesthetic-Polybar
 ```
 ### Step 2: Make the two scripts executable
 ```sh
