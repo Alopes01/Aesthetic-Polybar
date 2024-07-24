@@ -16,14 +16,13 @@
  ![Aesthetic Polybar](screenshots/dark.gif)
 
 
-##
  ![Aesthetic Polybar](screenshots/light.gif)
 
 ##
 
 
 ## Introduction
-Welcome to the Aesthetic-Polybar repository! This collection features beautifully designed Polybar themes tailored for various styles and preferences, including dark mode, light mode, and more. Customize your desktop environment with ease and style.
+Welcome to the Aesthetic-Polybar repository! This collection features beautifully designed Polybar themes tailored for various styles and preferences, including dark mode, light mode, and more. Customize your desktop environment with ease and style. This polybar themes were design for i3WM. Read the warnings for more
 
 ## Features
 - 🌑  **Dark Mode Themes**: Sleek and modern designs for dark mode enthusiasts.
